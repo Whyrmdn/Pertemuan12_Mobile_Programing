@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AlertDateTimePicker</string>
+    <string name="app_description">Choose an option below:</string>
+    <string name="button_alert">Show Alert Dialog</string>
+    <string name="button_date_picker">Show Date Picker</string>
+    <string name="button_time_picker">Show Time Picker</string>
+    <string name="alert_title">Alert</string>
+    <string name="alert_message">Click OK to continue, or Cancel to stop:</string>
+    <string name="ok_button">OK</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="pressed_ok">Pressed OK</string>
+    <string name="pressed_cancel">Pressed Cancel</string>
+    <string name="selected_date">Selected date: </string>
+    <string name="selected_time">Selected time: </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
